@@ -8,5 +8,6 @@ public class UserController {
 
 	public void print () {
 		System.out.println("=====");
+		System.out.println("huangning");
 	}
 }
